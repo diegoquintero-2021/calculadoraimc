@@ -1,0 +1,14 @@
+table {
+    border-spacing: 0;
+    border-radius: 5px;
+    vertical-align: top;
+    border: 1px solid #000;
+}
+
+#inicio {
+    background: #52be80;
+}
+
+#tableP {
+    text-align: center;
+}
